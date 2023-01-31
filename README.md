@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gekkogwn
-- 👀 I’m interested in animation, rigging, drawing, ext.
+- 👀 I’m interested in 3d animation, rigging, drawing, ext.
 - 🌱 I’m currently learning 2d animation.
 - 💞️ I’m looking to collaborate on gaming development.
 - 📫 How to reach me ...
